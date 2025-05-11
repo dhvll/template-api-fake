@@ -14,7 +14,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "immer": "^10.1.1",
     "openapi3-ts": "^4.4.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
